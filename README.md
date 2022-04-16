@@ -1,3 +1,4 @@
+# 教程有问题，项目寄了，也跑不起来
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
